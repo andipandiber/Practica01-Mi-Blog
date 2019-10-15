@@ -1,0 +1,19 @@
+#Titulo{
+    font-size: 5vw;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#volver{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+}
+    #volver:hover{
+        background: #fefefe;
+    }
+.pie{
+    font-size: 20px;
+}
